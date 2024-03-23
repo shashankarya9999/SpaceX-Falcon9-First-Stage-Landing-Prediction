@@ -20,11 +20,6 @@ Assuming the role of a data scientist of a startup rivaling SpaceX, the goal of 
 6) [**Interactive Visual Analytics with Folium**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/InteractiveDataAnalytics_Folium.ipynb)
 7) [**Predictive Analysis - Machine Learning**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/PredictiveAnalysis_MachineLearning.ipynb)
 
-## Explore
-- How payload mass, launch site, number of flights, and orbits affect first-stage landing success
-- Rate of successful landings over time
-- Best predictive model for successful landing (binary classification)
-
 ## Executive Summary
 The analysis aims to identify the factors for a successful rocket landing. To make this determination, the following methodologies were used:
 - Collect data using SpaceX REST API and web scraping techniques
