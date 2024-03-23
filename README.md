@@ -37,5 +37,6 @@ The analysis aims to identify the factors for a successful rocket landing. To ma
 
 ##### Acknowledgements
 ###### © Copyright IBM Corporation 
+###### Copyright (c) 2024 Shashank Arya
 
 
