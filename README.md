@@ -8,7 +8,7 @@
 
 In this capstone project, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. With the help of the data science findings and models, the competing startup can make more informed bids against SpaceX for a rocket launch.
 
-Assuming the role of a data scientist of a startup rivaling SpaceX, the goal of this project is to create a machine learning pipeline to predict the landing outcome of the first stage in the future; and in the process leading upto the final goal, we follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development and model evaluation.
+Assuming the role of a data scientist of a startup rivaling SpaceX, the goal of this project is to create a machine learning pipeline to predict the landing outcome of the first stage in the future; and in the process leading upto the final goal, we follow the data science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development and model evaluation.
 
 ## Explore
 - How payload mass, launch site, number of flights, and orbits affect first-stage landing success
