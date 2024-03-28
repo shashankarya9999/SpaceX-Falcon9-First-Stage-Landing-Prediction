@@ -11,7 +11,6 @@ In this capstone project, we will predict if the Falcon 9 first stage will land 
 Assuming the role of a data scientist of a startup rivaling SpaceX, the goal of this project is to create a machine learning pipeline to predict the landing outcome of the first stage in the future; and in the process leading upto the final goal, we follow the data science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development and model evaluation.
 
 ## Table of Contents
-
 1) [**Data Collection with API**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/DataCollection_API.ipynb)
 2) [**Data Collection with Web Scraping**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/DataCollection_WebScraping.ipynb)
 3) [**Data Wrangling**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/DataWrangling.ipynb)
