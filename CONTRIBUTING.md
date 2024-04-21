@@ -18,4 +18,3 @@ Thank you for considering contributing to the Data Science Projects repository! 
 - Include any necessary documentation or instructions along with your contributions.
 - Test your changes thoroughly to ensure they do not introduce any new bugs or issues.
 - Be open to feedback and constructive criticism. Reviewers may suggest changes or improvements to your contributions, and collaboration is encouraged to reach the best possible outcome.
-
