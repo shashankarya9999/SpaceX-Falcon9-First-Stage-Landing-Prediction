@@ -29,6 +29,21 @@ The analysis aims to identify the factors for a successful rocket landing. To ma
 - Visualize the launch sites with the most success and successful payload ranges
 - Build Models to predict landing outcomes using K-nearest neighbour (KNN), decision tree, support vector machine and logistic regression.
 
-##### Acknowledgements
+## Getting Started
+If you're new to this repository or data science in general, here's how you can get started:
+
+1. Clone the repository to your local machine using `git clone https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction`.
+2. Navigate to the project you're interested in within the repository.
+3. Run, and explore the code.
+
+## Contributing
+Contributions are most welcome! If you want to contribute, make sure to go through [**CONTRIBUTING.md**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/CONTRIBUTING.md). Any improvements, bug fixes, or additional projects are greatly appreciated.
+
+## License
+This project is licensed under the [**MIT License**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes with citation or reference to the original code and resources used.
+
+## Contact
+I welcome any feedback, discussion, suggestion or question regarding any of the projects or any kind of sponsorships for the repository. Feel free to reach out to me via email at shashankarya9831@gmail.com
+
 ###### © Copyright IBM Corporation 
 ###### Copyright (c) 2024 Shashank Arya
