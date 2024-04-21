@@ -12,12 +12,12 @@ Assuming the role of a data scientist of a startup rivaling SpaceX, the goal of 
 
 ## Table of Contents
 1) [**Data Collection with API**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/02-Data-Collection/DataCollection_API.ipynb)
-2) [**Data Collection with Web Scraping**]()
-3) [**Data Wrangling**]()
-4) [**EDA with Visualization**]()
-5) [**EDA with SQL**]()
-6) [**Interactive Visual Analytics with Folium**]()
-7) [**Predictive Analysis - Machine Learning**]()
+2) [**Data Collection with Web Scraping**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/02-Data-Collection/DataCollection_WebScraping.ipynb)
+3) [**Data Wrangling**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/03-Data-Wrangling/DataWrangling.ipynb)
+4) [**EDA with Visualization**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/04-Exploratory-Data-Analysis/EDA_DataVisualization.ipynb)
+5) [**EDA with SQL**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/04-Exploratory-Data-Analysis/EDA_SQL.ipynb)
+6) [**Interactive Visual Analytics with Folium**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/05-Interactive-Data-Analytics/InteractiveDataAnalytics_Folium.ipynb)
+7) [**Predictive Analysis - Machine Learning**](https://github.com/shashankarya9999/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/main/06-Predictive-Analysis/PredictiveAnalysis_MachineLearning.ipynb)
 
 ## Executive Summary
 The analysis aims to identify the factors for a successful rocket landing. To make this determination, the following methodologies were used:
