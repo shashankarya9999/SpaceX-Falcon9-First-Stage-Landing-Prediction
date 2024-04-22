@@ -1,5 +1,4 @@
-# Import required libraries
-
+# import required libraries
 import pandas as pd
 import dash
 import dash_html_components as html
@@ -15,7 +14,7 @@ min_payload = spacex_df['Payload Mass (kg)'].min()
 # create a dash application
 app = dash.Dash(__name__)
 
-# Create an app layout
+# create an app layout
 app.layout = html.Div(children=[html.H1('SpaceX Launch Records Dashboard',
                                         style={'textAlign': 'center', 'color': '#503D36',
                                                'font-size': 40}),
