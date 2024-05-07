@@ -26,13 +26,13 @@ Assuming the role of a data scientist of a startup rivaling SpaceX, the goal of 
 
 ## Executive Summary
 The analysis aims to identify the factors for a successful rocket landing. To make this determination, the following methodologies were used:
-- Collect data using SpaceX REST API and web scraping techniques
-- Wrangle data to create success/fail outcome variable
-- Explore data with data visualization techniques, considering the following factors: payload, launch site, flight number and yearly trend
-- Analyze the data with SQL, calculating the following statistics: total payload, payload range for successful launches, and total number of successful and failed outcomes
-- Explore launch site success rates and proximity to geographical markers
-- Visualize the launch sites with the most success and successful payload ranges
-- Build Models to predict landing outcomes using K-nearest neighbour (KNN), decision tree, support vector machine and logistic regression.
+- Collected data using SpaceX REST API and web scraping techniques
+- Wrangled data to create success/fail outcome variable
+- Explored data with data visualization techniques, considering the following factors: payload, launch site, flight number and yearly trend
+- Analyzed the data with SQL, calculating the following statistics: total payload, payload range for successful launches, and total number of successful and failed outcomes
+- Explored launch site success rates and proximity to geographical markers
+- Visualized the launch sites with the most success and successful payload ranges
+- Built Models to predict landing outcomes using K-nearest neighbour (KNN), decision tree, support vector machine and logistic regression.
 
 ## Getting Started
 If you're new to this repository or data science in general, here's how you can get started:
